@@ -13,10 +13,10 @@ Comecei a mexer com programação aos meus 12 anos com um curso de Desenvolvimen
 ---
 
 <!-- Cards de Status e linguagens -->
-<div style="display: inline_block">
+<div align="center">
   <a href="https://github.com/KaioMR">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaioMR&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioMR&layout=compact&langs_count=7&theme=aura"/>
+  <img height="140rem" src="https://github-readme-stats.vercel.app/api?username=KaioMR&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="140rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioMR&layout=compact&langs_count=7&theme=aura"/>
 </div>
 
 <!-- Imagem das Linguagens -->
