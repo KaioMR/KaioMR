@@ -14,13 +14,14 @@ Comecei a mexer com programação aos meus 12 anos com um curso de Desenvolvimen
 
 <!-- Cards de Status e linguagens -->
 <div align="center">
-  <img alt="Kaio-GitStats" height="150rem" src="https://github-readme-stats.vercel.app/api?username=KaioMR&show_icons=true&theme=aura&include_all_commits=true&count_private=true">
-  <img alt="Kaio-GitLanguages" height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioMR&layout=compact&langs_count=7&theme=aura">
+  <a href="https://github.com/KaioMR">
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=KaioMR&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/a>
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioMR&layout=compact&langs_count=7&theme=aura"/a>
 </div>
 
 <!-- Imagem das Linguagens -->
   ## Linguagens Aprendidas
-  Linguagens as quais já aprendi e possuo um conhecimento sólido<br>
+  Linguagens as quais já aprendi e possuo um conhecimento sólido. <br>
 <div style="display: inline_block">
   <img alt="Kaio-Csharp" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg">
   <img alt="Kaio-C++" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg">
