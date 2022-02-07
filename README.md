@@ -2,15 +2,14 @@
 ### Sou um entusiasta na área de Desenvolvimento Web e tenho muito interesse em me capacitar e trabalhar nesse meio
 ____
 - 🔭 Atualmente, sou iniciante na área de Desenvolvimento mas tenho um grande interesse em começar a utilizar
-- 🌱 Estudando C#, Java e SQL
-- 📫 Entre em contato comigo pelo email: kaiomr.contato@gmail.com
+- 🤓 Estou aperfeiçoando C#, aprendendo um pouco sobre o funcionamento de API e SQL
 ____
 
 <!-- Cards de Status e linguagens -->
 <div align="center">
   <a href="https://github.com/KaioMR">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaioMR&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioMR&layout=compact&langs_count=7&theme=aura"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=KaioMR&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioMR&layout=compact&langs_count=7&theme=aura"/>
 </div>
 
 <!-- Imagem das Linguagens -->
