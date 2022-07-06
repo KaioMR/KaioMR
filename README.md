@@ -22,7 +22,7 @@ Comecei a programar aos meus 12 anos em um curso de Desenvolvimento de Jogos e d
 
 <!-- Imagem das Linguagens -->
   ## Known Languages and Frameworks
-  Linguagens que eu possuo um conhecimento sóldo (PT-BR🇧🇷) <br>
+  Linguagens que eu possuo um conhecimento sóldo (PT-BR) <br>
   Languages I have a solid knowledge on. (EN)<br>
 <div style="display: inline_block">
   <img alt="Kaio-C++" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg">
