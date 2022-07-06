@@ -1,8 +1,8 @@
 ### Olá! Eu sou Kaio Maia
-#### Sou um entusiasta na área de Desenvolvimento Web
+#### Estagiário em Desenvolvimento de Software
 ____
-Eu sou Estagiário em Desenvolvimento de Software, graduando em Sistemas de Informação na faculdade COTEMIG<br>
-Comecei a mexer com programação aos meus 12 anos com um curso de Desenvolvimento de Jogos e desde então venho tentado me aperfeiçoar na área, quando entrei no Colégio Técnico, para o curso de Automação Industrial, a parte de programação sempre foi a que mais me atraiu.
+Eu sou Estagiário em Desenvolvimento de Software, graduando em Sistemas de Informação na faculdade COTEMIG e Tecnico em Automação Industrial pelo COLTEC-UFMG<br>
+Comecei a mexer com programação aos meus 12 anos com um curso de Desenvolvimento de Jogos e desde então venho tentado me aperfeiçoar na área, quando entrei no Colégio Técnico, para o curso de Automação Industrial, a parte de programação sempre foi a que mais me atraiu. Atualmente, durante meu estágio venho focando em aprimorar cada vez mais meus conhecimentos na área e venho desenvolvendo projetos principalmente em Angular e Ionic. 
 
 <!-- Imagem das Redes Sociais e Contato -->
 <div style="display: inline_block">
