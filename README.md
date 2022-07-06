@@ -21,8 +21,9 @@ Comecei a programar aos meus 12 anos em um curso de Desenvolvimento de Jogos e d
 </div>
 
 <!-- Imagem das Linguagens -->
-  ## Linguagens Aprendidas
-  Linguagens as quais já aprendi e possuo um conhecimento sólido. <br>
+  ## Known Languages and Frameworks
+  Linguagens que eu possuo um conhecimento sóldo (PT-BR🇧🇷) <br>
+  Languages I have a solid knowledge on. (EN)<br>
 <div style="display: inline_block">
   <img alt="Kaio-C++" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg">
   <img alt="Kaio-C" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
@@ -32,8 +33,9 @@ Comecei a programar aos meus 12 anos em um curso de Desenvolvimento de Jogos e d
   <img alt="Kaio-HTML" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
 </div>
 
-  ## Interesse
-  Linguagens e frameworks que desejo estudar futuramente ou já estou estudando. <br>
+  ## Future Interests
+  Linguagens e frameworks que desejo estudar futuramente ou já estou estudando. (PT-BR)<br>
+  Languages I am interested in learning or am already learning (EN)
 <div style="display: inline_block">
   <img alt="KaioInteresse-Java" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
   <img alt="KaioInteresse-Csharp" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg">
