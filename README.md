@@ -21,7 +21,7 @@ Comecei a programar aos meus 12 anos em um curso de Desenvolvimento de Jogos e d
 </div>
 
 <!-- Imagem das Linguagens -->
-  ## Known Languages and Frameworks
+  ## Known Languages and Frameworks | Linguagens e Framesworks conhecidos
   Linguagens que eu possuo um conhecimento sóldo (PT-BR) <br>
   Languages I have a solid knowledge on. (EN)<br>
 <div style="display: inline_block">
@@ -33,7 +33,7 @@ Comecei a programar aos meus 12 anos em um curso de Desenvolvimento de Jogos e d
   <img alt="Kaio-HTML" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
 </div>
 
-  ## Future Interests
+  ## Future Interests | Interesses futuros
   Linguagens e frameworks que desejo estudar futuramente ou já estou estudando. (PT-BR)<br>
   Languages I am interested in learning or am already learning (EN)
 <div style="display: inline_block">
