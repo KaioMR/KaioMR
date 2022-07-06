@@ -1,8 +1,9 @@
 ### Olá! Eu sou Kaio Maia
 #### Sou um entusiasta na área de Desenvolvimento Web
 ____
-Eu sou ténico em Automação Industrial pelo Colégio Técnico da UFMG.<br>
-Comecei a mexer com programação aos meus 12 anos com um curso de Desenvolvimento de Jogos e desde então venho tentado me aperfeiçoar na área, quando entrei no Colégio Técnico a parte de programação sempre foi a que mais me atraiu, desde então foco bastante em me capacitar e trabalhar com isso um dia.
+Eu sou Estagiário em Desenvolvimento de Software, graduando em Sistemas de Informação na faculdade COTEMIG<br>
+Comecei a mexer com programação aos meus 12 anos com um curso de Desenvolvimento de Jogos e desde então venho tentado me aperfeiçoar na área, quando entrei no Colégio Técnico, para o curso de Automação Industrial, a parte de programação sempre foi a que mais me atraiu.
+
 <!-- Imagem das Redes Sociais e Contato -->
 <div style="display: inline_block">
   <a href="https://www.instagram.com/kaiomr_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
