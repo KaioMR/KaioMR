@@ -42,6 +42,6 @@ Comecei a programar aos meus 12 anos em um curso de Desenvolvimento de Jogos e d
   <img alt="KaioInteresse-Angular" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img alt="KaioInteresse-Ionic" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg">
   <img alt="KaioInteresse-React" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img alt="KaioInteresse-TypeScript" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img alt="KaioInteresse-TypeScript" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
 </div>
 
