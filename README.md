@@ -31,17 +31,15 @@ Comecei a programar aos meus 12 anos em um curso de Desenvolvimento de Jogos e d
   <img alt="Kaio-JavaScript" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img alt="Kaio-CSS" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
   <img alt="Kaio-HTML" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
+  <img alt="KaioInteresse-React" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img alt="KaioInteresse-TypeScript" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
 </div>
 
   ## Future Interests | Interesses futuros
   Linguagens e frameworks que desejo estudar futuramente ou já estou estudando. (PT-BR)<br>
   Languages I am interested in learning or am already learning (EN)
 <div style="display: inline_block">
-  <img alt="KaioInteresse-Java" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
-  <img alt="KaioInteresse-Csharp" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg">
-  <img alt="KaioInteresse-Angular" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-  <img alt="KaioInteresse-Ionic" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg">
-  <img alt="KaioInteresse-React" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img alt="KaioInteresse-TypeScript" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
+   <img alt="KaioInteresse-NextJS" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+   <img alt="KaioInteresse-TailWind" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg">
 </div>
 
